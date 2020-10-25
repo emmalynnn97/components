@@ -3,6 +3,7 @@ import './App.css';
 import Col from './Col';
 import Row from './Row';
 import Item from './Item';
+import ShoeShop from './ShoeShop'
 function App() {
   const items=[
     Item('Item 1', '10.99', 'https://imgix.cosmicjs.com/1bba14f0-115e-11eb-a3a4-e96c5b21843c-grailify-eYjrlMIZrQ-unsplash-1.jpg'),
